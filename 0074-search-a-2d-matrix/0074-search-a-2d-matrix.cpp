@@ -27,7 +27,7 @@ public:
         for (int i = 0 ; i < rows ; i++){
             if (target >= matrix[i][0] && target<=matrix[i][cols - 1])
                 return binarySearch(matrix[i] , target);
-        }
+        } //O(rows * log(cols))
         return false;
     }
 };
