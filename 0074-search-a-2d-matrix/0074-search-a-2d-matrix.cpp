@@ -2,7 +2,7 @@ class Solution {
 
 private:
 
-    bool binarySearch(vector<int> arr ,const int target){
+    bool binarySearch(vector<int>& arr ,const int target){
         int low =  0 , high = arr.size() -1;
         while (low  <= high){
             int mid = (low + high) / 2;
@@ -25,9 +25,8 @@ public:
         int rows = matrix.size() ; 
         int cols = matrix[0].size();
         for (int i = 0 ; i < rows ; i++){
-            vector<int> arr = matrix[i];
-            if (target >= arr[0] && target<=arr[cols - 1])
-                return binarySearch(arr , target);
+            if (target >= matrix[i][0] && target<=matrix[i][cols - 1])
+                return binarySearch(matrix[i] , target);
         }
         return false;
     }
