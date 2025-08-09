@@ -44,7 +44,7 @@ public:
                 pair<char , int> chosenTask = pq.top();
                 pq.pop();
                 freq[chosenTask.first]--;
-                if (freq[chosenTask.first])
+                if (freq[chosenTask.first] > 0)
                     waitingList.push({chosenTask.first , time + n + 1});
             }
             time++;
