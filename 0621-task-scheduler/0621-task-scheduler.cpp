@@ -6,34 +6,42 @@ public:
             count[task - 'A']++;
         }
 
-        priority_queue<int> maxHeap;
-        for (int cnt : count) {
-            if (cnt > 0) {
-                maxHeap.push(cnt);
+        vector<pair<int, int>> arr;
+        for (int i = 0; i < 26; i++) {
+            if (count[i] > 0) {
+                arr.emplace_back(count[i], i);
             }
         }
 
         int time = 0;
-        queue<pair<int, int>> q;
-        while (!maxHeap.empty() || !q.empty()) {
-            time++;
-
-            if (maxHeap.empty()) {
-                time = q.front().second;
-            } else {
-                int cnt = maxHeap.top() - 1;
-                maxHeap.pop();
-                if (cnt > 0) {
-                    q.push({cnt, time + n});
+        vector<int> processed;
+        while (!arr.empty()) {
+            int maxi = -1;
+            for (int i = 0; i < arr.size(); i++) {
+                bool ok = true;
+                for (int j = max(0, time - n); j < time; j++) {
+                    if (j < processed.size() && processed[j] == arr[i].second) {
+                        ok = false;
+                        break;
+                    }
+                }
+                if (!ok) continue;
+                if (maxi == -1 || arr[maxi].first < arr[i].first) {
+                    maxi = i;
                 }
             }
 
-            if (!q.empty() && q.front().second == time) {
-                maxHeap.push(q.front().first);
-                q.pop();
+            time++;
+            int cur = -1;
+            if (maxi != -1) {
+                cur = arr[maxi].second;
+                arr[maxi].first--;
+                if (arr[maxi].first == 0) {
+                    arr.erase(arr.begin() + maxi);
+                }
             }
+            processed.push_back(cur);
         }
-
         return time;
     }
 };
