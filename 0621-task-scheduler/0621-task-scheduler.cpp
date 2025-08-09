@@ -1,46 +1,53 @@
+class Compare{
+    public:
+        bool operator()(pair<char , int> taskA , pair<char,int> taskB){
+            if (taskA.second < taskB.second) return true;
+            return false;
+        }
+};
+
+
 class Solution {
+
+private:
+    priority_queue<pair<char,int> , vector<pair<char , int>> , Compare> pq;
+    unordered_map<char , int> freq;
+    queue<pair<char , int>> waitingList;
+
+    void populateFreq(vector<char>& tasks){
+        for (char task : tasks){
+            freq[task]++;
+        }
+    }
+
+    void populatePQ(){
+        for (const auto& [taskName , freqOfTask] : freq){
+            pq.push({taskName , freqOfTask});
+        }
+    }
+
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        vector<int> count(26, 0);
-        for (char task : tasks) {
-            count[task - 'A']++;
-        }
-
-        vector<pair<int, int>> arr;
-        for (int i = 0; i < 26; i++) {
-            if (count[i] > 0) {
-                arr.emplace_back(count[i], i);
-            }
-        }
-
-        int time = 0;
-        vector<int> processed;
-        while (!arr.empty()) {
-            int maxi = -1;
-            for (int i = 0; i < arr.size(); i++) {
-                bool ok = true;
-                for (int j = max(0, time - n); j < time; j++) {
-                    if (j < processed.size() && processed[j] == arr[i].second) {
-                        ok = false;
-                        break;
-                    }
+        populateFreq(tasks);
+        populatePQ();
+        int time = 0 ;
+        while (pq.size() > 0 || waitingList.size() > 0){
+            if (waitingList.size()> 0 ){
+                pair<char, int> firstWaitingTask = waitingList.front();
+                while (!waitingList.empty() && firstWaitingTask.second <= time){
+                    pq.push({firstWaitingTask.first , freq[firstWaitingTask.first]});
+                    waitingList.pop();
+                    firstWaitingTask = waitingList.front();
                 }
-                if (!ok) continue;
-                if (maxi == -1 || arr[maxi].first < arr[i].first) {
-                    maxi = i;
-                }
+            }   
+            if (pq.size() > 0){
+                pair<char , int> chosenTask = pq.top();
+                pq.pop();
+                freq[chosenTask.first]--;
+                if (freq[chosenTask.first])
+                    waitingList.push({chosenTask.first , time + n + 1});
             }
-
             time++;
-            int cur = -1;
-            if (maxi != -1) {
-                cur = arr[maxi].second;
-                arr[maxi].first--;
-                if (arr[maxi].first == 0) {
-                    arr.erase(arr.begin() + maxi);
-                }
-            }
-            processed.push_back(cur);
         }
         return time;
     }
