@@ -1,24 +1,22 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<vector<string>> result;
-        unordered_map<string, vector<string>> maintain;
-
-        for (string& str : strs) {
-            string current = str;
-            sort(current.begin(), current.end());
-
-            if (maintain.find(current) == maintain.end()) {
-                maintain[current] = {str};
-            } else {
-                maintain[current].push_back(str);
+            vector<vector<string>> res;
+            unordered_map<string , vector<string>> map;
+            for (auto& str : strs){
+                string key = str;
+                sort(key.begin() , key.end());
+                if (map.find(key)!=map.end()){
+                    map[key].push_back(str);
+                }else{
+                    map[key] = {str};
+                }
             }
-        }
 
-        for (auto& [k, v] : maintain) {
-            result.push_back(v);
-        }
+            for (const auto& [k,v] : map){
+                res.push_back(v);
+            }
 
-        return result;
+            return res;
     }
 };
