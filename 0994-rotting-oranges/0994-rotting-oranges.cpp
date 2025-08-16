@@ -27,7 +27,7 @@ public:
             }
         }
 
-        //if (fresh == 0) return 0;
+        if (fresh == 0) return 0;
 
         while (!bfsQ.empty()) {
             int size = bfsQ.size();
