@@ -1,7 +1,7 @@
 class Solution {
 
 private:
-    bool isPalin(string& s , int left , int right){
+    bool isPalin(string s , int left , int right){
         while (left < right){
             if (s[left++ ] == s[right -- ]) continue;
             else return false;
