@@ -6,7 +6,7 @@ public:
         int buyMin = prices[0];
         for (int i = 1 ; i < size ; i++){
             if (prices[i] < buyMin) buyMin = prices[i];
-            else maxProfit = max(maxProfit , prices[i] - buyMin);
+            else maxProfit = maxProfit > prices[i] - buyMin ? maxProfit : prices[i] - buyMin;
         }
         return maxProfit;
     }
