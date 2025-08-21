@@ -11,7 +11,7 @@ private:
         while (bin.length() < 32){
             bin+='0';
         }
-        reverse(bin.begin() , bin.end());
+        //reverse(bin.begin() , bin.end());
         return bin;
     }
 
@@ -28,7 +28,6 @@ private:
 public:
     int reverseBits(int n) {
         string bin = toBin(n);
-        reverse(bin.begin()  , bin.end());
         return toNum(bin);
     }
 };
