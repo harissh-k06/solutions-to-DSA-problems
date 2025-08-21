@@ -16,7 +16,6 @@ vector<vector<int>> result;
 private:
 
     void helper(TreeNode* node, vector<int>& subset){
-        //leaf node
         if (!node ) return;
         if (!node->left && !node->right) {
             subset.emplace_back(node->val);
@@ -33,7 +32,6 @@ private:
             helper(node->right , subset);
             subset.pop_back();
         }
-        //subset.pop_back();
     }
 public:
     vector<string> binaryTreePaths(TreeNode* root) {
