@@ -1,19 +1,28 @@
 class Solution {
+    vector<char> track;
 public:
-    string convertToTitle(int columnNumber) {
-        string ans;
-
-        while(columnNumber){
-            // To handle 'Z'
-            columnNumber--;
-
-            int remainder=columnNumber%26;
-            ans.push_back('A'+remainder);
-
-            columnNumber/=26;
+    Solution(){
+        track.push_back('n');
+        int start = 'A';
+        for (int i = 1 ; i <=26 ; i++){
+            track.push_back((char)start);
+            start++;
         }
 
-        reverse(begin(ans),end(ans));
-        return ans;
+    }
+
+
+    string convertToTitle(int columnNumber) {
+        string title = "";
+        cout<<701/26;
+        int temp = columnNumber;
+        while (temp > 0){
+            int num = temp % 26; // --> 25 rem 25 = 
+            if (num == 0){ title+='Z'; temp--; } 
+            else title+=track[num];// --> Y
+            temp/=26;// --> 26->1
+        }
+        reverse(title.begin() , title.end());
+        return title;
     }
 };
