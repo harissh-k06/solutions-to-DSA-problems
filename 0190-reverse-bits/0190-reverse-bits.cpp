@@ -28,7 +28,6 @@ private:
 public:
     int reverseBits(int n) {
         string bin = toBin(n);
-        cout<<toBin(12);
         reverse(bin.begin()  , bin.end());
         return toNum(bin);
     }
