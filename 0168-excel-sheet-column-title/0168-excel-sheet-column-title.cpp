@@ -10,17 +10,15 @@ public:
         }
 
     }
-
-
     string convertToTitle(int columnNumber) {
         string title = "";
         cout<<701/26;
         int temp = columnNumber;
         while (temp > 0){
-            int num = temp % 26; // --> 25 rem 25 = 
+            int num = temp % 26; 
             if (num == 0){ title+='Z'; temp--; } 
-            else title+=track[num];// --> Y
-            temp/=26;// --> 26->1
+            else title+=track[num];
+            temp/=26;
         }
         reverse(title.begin() , title.end());
         return title;
