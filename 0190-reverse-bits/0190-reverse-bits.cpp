@@ -11,7 +11,6 @@ private:
         while (bin.length() < 32){
             bin+='0';
         }
-        //reverse(bin.begin() , bin.end());
         return bin;
     }
 
