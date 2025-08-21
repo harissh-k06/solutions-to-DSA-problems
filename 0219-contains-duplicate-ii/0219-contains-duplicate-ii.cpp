@@ -12,7 +12,7 @@ public:
         for (int i = 0 ; i < size ; i++){
             count[nums[i]]++;
             if (count[nums[i]] > 1) {
-                int diffV = abs(track[nums[i]] - i);
+                int diffV = i- track[nums[i]] ;
                 if (diffV <= k) return true;
             }
             track[nums[i]] = i;
