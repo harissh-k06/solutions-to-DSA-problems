@@ -11,7 +11,7 @@ class Compare{
 class Solution {
 
 private:
-    
+    priority_queue<string , vector<string> , Compare> pq;
 
 public:
     string largestNumber(vector<int>& nums) {
@@ -22,7 +22,7 @@ public:
             if (!(isAllZero && num == 0)) isAllZero = false; 
         }
         if (isAllZero) return "0";
-        priority_queue<string , vector<string> , Compare> pq;
+        
         for (string num : toS){
             pq.push(num);
         }
