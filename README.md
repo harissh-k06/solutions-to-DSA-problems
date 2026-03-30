@@ -59,9 +59,14 @@ Feel free to fork or use for your own revision!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
