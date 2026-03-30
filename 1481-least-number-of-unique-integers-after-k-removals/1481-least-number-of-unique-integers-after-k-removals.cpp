@@ -1,16 +1,3 @@
-class Compare{
-    public:
-        unordered_map<int,int> count;
-
-        Compare(unordered_map<int,int>& c) : count(c) {} 
-
-        bool operator() (auto& a , auto& b){
-            if (count[a] != count[b]) return count[a] > count[b];
-            else return false;
-        }
-
-
-};
 
 class Solution {
 public:
@@ -25,21 +12,14 @@ public:
 
     int findLeastNumOfUniqueInts(vector<int>& arr, int k) {
         findCount(arr);
-        priority_queue<int , vector<int> , Compare> pq(count); 
-        vector <int> res ;
+        priority_queue<int , vector<int> , greater<int>> pq; 
 
-        unordered_set<int> unique;
-
-        for (auto c : arr){
-            unique.insert(c);
+        for (auto& c : count){
+            pq.push(c.second);
         }
 
-        for (auto c : unique){
-            pq.push(c);
-        }
-        
-        while (!pq.empty() && count[pq.top()] <= k ){
-            k-=count[pq.top()];
+        while (!pq.empty() && pq.top() <= k ){
+            k-=pq.top();
             pq.pop();
         }
 
