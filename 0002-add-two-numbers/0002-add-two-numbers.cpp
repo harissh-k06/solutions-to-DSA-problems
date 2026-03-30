@@ -8,37 +8,59 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* traverseL1 = l1;
-        ListNode* traverseL2 = l2;
-        int carry = 0 ;
-        ListNode* prev =nullptr;
-        ListNode* res = prev;
-        while (traverseL1 || traverseL2 || carry){
-            int sum = carry;
-            if (traverseL1){
-                sum+= traverseL1->val;
-            }
-            if (traverseL2){
-                sum+=traverseL2->val;
-            }
-            int digit = sum%10;
-            ListNode* newNode = new ListNode(digit);
-            if (!prev){
-                prev = newNode;
-                res = newNode;
-            }
-            else{
-                prev->next = newNode;
-                prev = newNode;
-            }
-            carry = sum>= 10 ? 1 : 0;
-            if (traverseL1) traverseL1 = traverseL1->next;
-            if (traverseL2) traverseL2 = traverseL2->next;
+        ListNode* head1 = l1;
+        ListNode* head2 = l2;
+        ListNode* i = l1;
+        ListNode* j = l2;
+        ListNode* res = new ListNode ();
+        ListNode* head3 = res;
+        ListNode* prev = new ListNode();
+        int c = 0;
+        while (i!= nullptr && j!= nullptr){
+            int sum =  i->val + j-> val + c;
+            int s = sum % 10 ;
+            c = sum / 10 ;
+            res-> val = s;
+            ListNode* next = new ListNode();
+            res-> next = next;
+            prev = res;
+            res = next;
+            i = i-> next; j = j-> next;
+        }   
+
+        
+        while (i!=nullptr){
+            res->val = (i-> val + c) % 10;
+            c = ( i->val + c ) / 10;
+            ListNode* next = new ListNode();
+            res-> next = next;
+            prev = res;
+            res = next;
+            i = i-> next;
         }
-        return res;
+        
+        while(j!= nullptr){
+            res->val = (j-> val + c) % 10;
+            c = ( j->val + c ) / 10;
+            ListNode* next = new ListNode();
+            res-> next = next;
+            prev = res;
+            res = next;
+            j = j->next;
+        }
+
+        if (c){
+            res->val = c;
+        }
+
+        else{
+            prev-> next = nullptr;
+        }
+
+        return head3;
+
     }
 };
