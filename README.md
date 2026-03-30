@@ -41,6 +41,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,8 +50,18 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 <!---LeetCode Topics End-->
