@@ -1,66 +1,39 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* head1 = l1;
-        ListNode* head2 = l2;
-        ListNode* i = l1;
-        ListNode* j = l2;
-        ListNode* res = new ListNode ();
-        ListNode* head3 = res;
-        ListNode* prev = new ListNode();
-        int c = 0;
-        while (i!= nullptr && j!= nullptr){
-            int sum =  i->val + j-> val + c;
-            int s = sum % 10 ;
-            c = sum / 10 ;
-            res-> val = s;
-            ListNode* next = new ListNode();
-            res-> next = next;
-            prev = res;
-            res = next;
-            i = i-> next; j = j-> next;
-        }   
-
+        ListNode* A = l1;  
+        ListNode* B = l2;
+        int c = 0; // Carry
         
-        while (i!=nullptr){
-            res->val = (i-> val + c) % 10;
-            c = ( i->val + c ) / 10;
-            ListNode* next = new ListNode();
-            res-> next = next;
-            prev = res;
-            res = next;
-            i = i-> next;
-        }
+        // Dummy node to anchor the start of our new list
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
         
-        while(j!= nullptr){
-            res->val = (j-> val + c) % 10;
-            c = ( j->val + c ) / 10;
-            ListNode* next = new ListNode();
-            res-> next = next;
-            prev = res;
-            res = next;
-            j = j->next;
+        // We can combine all conditions into a single loop!
+        while (A != nullptr || B != nullptr || c != 0) {
+            int valA = (A != nullptr) ? A->val : 0;
+            int valB = (B != nullptr) ? B->val : 0;
+            
+            // Calculate sum and carry
+            int digitSum = valA + valB + c;
+            int sum = digitSum % 10;
+            c = digitSum / 10; // Alternatively: digitSum >= 10 ? 1 : 0
+            
+            // Create the new node and advance the current pointer
+            curr->next = new ListNode(sum);
+            curr = curr->next;
+            
+            // Advance A and B if they aren't null
+            if (A != nullptr) A = A->next;
+            if (B != nullptr) B = B->next;
         }
 
-        if (c){
-            res->val = c;
-        }
-
-        else{
-            prev-> next = nullptr;
-        }
-
-        return head3;
-
+        // The actual result starts at the node AFTER the dummy
+        ListNode* result = dummy->next;
+        
+        // Prevent memory leak by deleting the dummy node (best practice)
+        delete dummy; 
+        
+        return result;
     }
 };
