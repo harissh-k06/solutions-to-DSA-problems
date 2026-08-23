@@ -6,7 +6,7 @@ public:
         int minPrice = prices[0];
         int maxProfit = 0;
         for (int p = 1; p < days ; p++){
-            int hypProfit = prices[p] - minPrice;
+            int hypProfit = prices[p] - minPrice; //hypothetical Profit at any point in time
             if (hypProfit >  0){
                 if (maxProfit < hypProfit){
                     maxProfit = hypProfit;
