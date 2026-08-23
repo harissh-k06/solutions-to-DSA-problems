@@ -78,6 +78,7 @@ Feel free to fork or use for your own revision!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
@@ -85,6 +86,7 @@ Feel free to fork or use for your own revision!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -106,4 +108,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
