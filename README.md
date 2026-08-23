@@ -56,6 +56,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Counting
@@ -67,6 +68,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## Greedy
@@ -76,6 +78,7 @@ Feel free to fork or use for your own revision!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
