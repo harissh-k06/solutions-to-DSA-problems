@@ -41,6 +41,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -85,4 +86,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
