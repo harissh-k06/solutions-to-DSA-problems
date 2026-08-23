@@ -78,6 +78,7 @@ Feel free to fork or use for your own revision!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -94,6 +95,7 @@ Feel free to fork or use for your own revision!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
