@@ -69,6 +69,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -80,6 +81,7 @@ Feel free to fork or use for your own revision!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
@@ -114,4 +116,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
