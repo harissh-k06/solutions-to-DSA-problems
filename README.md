@@ -124,4 +124,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 <!---LeetCode Topics End-->
