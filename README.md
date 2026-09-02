@@ -33,6 +33,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Feel free to fork or use for your own revision!
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
