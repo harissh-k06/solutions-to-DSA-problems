@@ -128,4 +128,5 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
