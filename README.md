@@ -129,6 +129,7 @@ Feel free to fork or use for your own revision!
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0595-big-countries/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
