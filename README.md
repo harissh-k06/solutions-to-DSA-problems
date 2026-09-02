@@ -127,6 +127,7 @@ Feel free to fork or use for your own revision!
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1068-product-sales-analysis-i/) | Easy |
