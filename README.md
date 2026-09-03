@@ -42,6 +42,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -83,6 +84,7 @@ Feel free to fork or use for your own revision!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ Feel free to fork or use for your own revision!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
