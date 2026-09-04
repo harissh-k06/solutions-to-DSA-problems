@@ -33,6 +33,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -147,4 +149,8 @@ Feel free to fork or use for your own revision!
 | [1661-average-time-of-process-per-machine](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
