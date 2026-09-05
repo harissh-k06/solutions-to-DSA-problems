@@ -52,6 +52,7 @@ Feel free to fork or use for your own revision!
 | [0213-house-robber-ii](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -90,6 +91,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -206,4 +208,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
