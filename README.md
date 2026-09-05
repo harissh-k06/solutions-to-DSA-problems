@@ -48,6 +48,7 @@ Feel free to fork or use for your own revision!
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
@@ -169,6 +170,7 @@ Feel free to fork or use for your own revision!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
@@ -188,10 +190,16 @@ Feel free to fork or use for your own revision!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
