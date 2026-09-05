@@ -51,6 +51,7 @@ Feel free to fork or use for your own revision!
 | [0213-house-robber-ii](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
@@ -188,4 +189,9 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
