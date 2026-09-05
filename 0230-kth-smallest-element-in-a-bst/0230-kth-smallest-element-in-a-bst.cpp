@@ -10,35 +10,27 @@
  * };
  */
 
-class Compare{
-    public:
-    bool operator()(int a , int b ){
-        return a < b;
-    }
-};
-
-
 class Solution {
 
 private:
-    void traverseBST(TreeNode* root , int k , priority_queue<int , vector<int> , Compare>& pq){
+    int count = 0 , ans = -1;
+    void helper(TreeNode* root ,int  k){
         if (!root) return;
-        pq.push(root -> val);
-        if (pq.size() >k) pq.pop();
-        traverseBST(root-> left , k , pq);
-        traverseBST(root->right , k ,pq);
+        helper(root->left , k);
+        count++;
+        if (count ==k) {
+            ans = root->val;
+            return;
+        }
+        
+        helper(root->right , k);
+        
     }
 
 
 public:
     int kthSmallest(TreeNode* root, int k) {
-        priority_queue<int , vector<int> , Compare> pq;
-        traverseBST(root , k , pq);
-
-        cout<<pq.size();
-        return pq.top();
-
-
-
+        helper(root , k);
+        return ans;
     }
 };
