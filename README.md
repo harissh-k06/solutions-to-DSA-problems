@@ -58,6 +58,7 @@ Feel free to fork or use for your own revision!
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -202,6 +203,7 @@ Feel free to fork or use for your own revision!
 | [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
