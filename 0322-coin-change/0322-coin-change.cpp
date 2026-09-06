@@ -16,8 +16,14 @@ class Solution {
                 minimumCoins = min(minimumCoins, 1 + minCoinsForNew);
             }
         }
-        minimumTrack[target] = minimumCoins == INT_MAX ? -1 : minimumCoins;
-        return minimumCoins == INT_MAX ? -1 : minimumCoins;
+        if (minimumCoins == INT_MAX){
+            minimumTrack[target] = -1;
+            return -1;
+        }
+        else {
+            minimumTrack[target] = minimumCoins;
+            return minimumCoins;
+        }
     }
 
    public:
