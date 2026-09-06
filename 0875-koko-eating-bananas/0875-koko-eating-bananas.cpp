@@ -40,7 +40,7 @@ private:
             int mid = low + (high - low) / 2;
 
             if (testSpeed(piles, mid, h)) {
-                minK = min(minK, mid);
+                minK = mid;
                 high = mid - 1; // Try to find a smaller valid eating speed
             } else {
                 low = mid + 1;  // Speed too slow, search higher
