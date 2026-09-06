@@ -86,6 +86,7 @@ Feel free to fork or use for your own revision!
 | [0217-contains-duplicate](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -106,6 +107,7 @@ Feel free to fork or use for your own revision!
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
@@ -230,4 +232,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
