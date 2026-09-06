@@ -46,6 +46,7 @@ Feel free to fork or use for your own revision!
 | [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0139-word-break/) | Medium |
@@ -198,6 +199,7 @@ Feel free to fork or use for your own revision!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
@@ -221,6 +223,7 @@ Feel free to fork or use for your own revision!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
