@@ -56,6 +56,7 @@ Feel free to fork or use for your own revision!
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
@@ -146,6 +147,7 @@ Feel free to fork or use for your own revision!
 | [0152-maximum-product-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0213-house-robber-ii](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -233,6 +235,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +252,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0139-word-break/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
