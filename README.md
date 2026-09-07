@@ -51,6 +51,7 @@ Feel free to fork or use for your own revision!
 | [0039-combination-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0139-word-break/) | Medium |
@@ -113,6 +114,7 @@ Feel free to fork or use for your own revision!
 | [0006-zigzag-conversion](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0139-word-break/) | Medium |
@@ -172,6 +174,7 @@ Feel free to fork or use for your own revision!
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0039-combination-sum/) | Medium |
+| [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +205,7 @@ Feel free to fork or use for your own revision!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 | [0101-symmetric-tree](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -236,6 +240,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
