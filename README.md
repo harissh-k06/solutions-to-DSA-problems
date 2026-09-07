@@ -30,6 +30,7 @@ Feel free to fork or use for your own revision!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0143-reorder-list](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0143-reorder-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0143-reorder-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0143-reorder-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -135,6 +138,7 @@ Feel free to fork or use for your own revision!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
