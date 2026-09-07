@@ -64,6 +64,7 @@ Feel free to fork or use for your own revision!
 | [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
@@ -212,6 +213,7 @@ Feel free to fork or use for your own revision!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,4 +283,12 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
