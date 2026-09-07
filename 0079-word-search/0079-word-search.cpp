@@ -30,7 +30,20 @@ public:
         int m = board.size();
         int n = board[0].size();
 
-        
+        // Optimization 1: Frequency check & board capacity
+        if (word.length() > m * n) return false;
+        unordered_map<char, int> boardFreq, wordFreq;
+        for (const auto& row : board) {
+            for (char c : row) boardFreq[c]++;
+        }
+        for (char c : word) {
+            if (++wordFreq[c] > boardFreq[c]) return false;
+        }
+
+        // Optimization 2: Reverse word if the tail character is rarer than the head
+        if (boardFreq[word.back()] < boardFreq[word.front()]) {
+            reverse(word.begin(), word.end());
+        }
 
         // Search the board
         for (int i = 0; i < m; i++){
