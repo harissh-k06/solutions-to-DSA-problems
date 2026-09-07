@@ -35,6 +35,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
@@ -151,6 +152,7 @@ Feel free to fork or use for your own revision!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -296,4 +298,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
