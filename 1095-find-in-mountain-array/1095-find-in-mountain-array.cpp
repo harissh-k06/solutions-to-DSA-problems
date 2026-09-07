@@ -11,11 +11,20 @@
 class Solution {
 
 private:
+    unordered_map<int , int> cache;
     int findMax(int target, MountainArray &mountainArr){
         int low = 0 , high = mountainArr.length() - 1;
         while (low <= high){
             int mid = ( high - low) / 2 + low;
-            int midM = mountainArr.get(mid);
+            int midM;
+            if (cache.count(mid)){
+                midM = cache[mid];
+            }
+            else{
+                midM = mountainArr.get(mid);
+                cache[mid] = midM;
+            }
+            
             int midL  = mid - 1 >= 0 ? mountainArr.get(mid - 1) : -1;
             int midH = mid + 1 <= mountainArr.length() - 1 ? mountainArr.get(mid + 1) : -1;
             if ( midM > midL && midM > midH) return mid;
@@ -29,7 +38,14 @@ private:
         int low = 0;
         while (low <= high){
             int mid = (high - low) / 2  + low;
-            int midV = mountainArr.get(mid);
+            int midV;
+            if (cache.count(mid)){
+                midV = cache[mid];
+            }
+            else{
+                midV = mountainArr.get(mid);
+                cache[mid] = midV;
+            }
             if ( midV == target) return mid;
             else if (midV < target){
                 low = mid + 1 ;
@@ -45,7 +61,14 @@ private:
         int high = mountainArr.length() - 1 ;
         while (low <= high){
             int mid = (high - low) / 2  + low;
-            int midV = mountainArr.get(mid);
+            int midV;
+            if (cache.count(mid)){
+                midV = cache[mid];
+            }
+            else{
+                midV = mountainArr.get(mid);
+                cache[mid] = midV;
+            }
             if ( midV == target) return mid;
             else if (midV > target){
                 low = mid + 1 ;
