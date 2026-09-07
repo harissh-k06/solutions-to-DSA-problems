@@ -48,6 +48,7 @@ Feel free to fork or use for your own revision!
 | [0001-two-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0039-combination-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -169,6 +170,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0039-combination-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
