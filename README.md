@@ -64,6 +64,7 @@ Feel free to fork or use for your own revision!
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -218,6 +219,7 @@ Feel free to fork or use for your own revision!
 | [0101-symmetric-tree](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ Feel free to fork or use for your own revision!
 | [0101-symmetric-tree](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -251,6 +254,7 @@ Feel free to fork or use for your own revision!
 | [0074-search-a-2d-matrix](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0200-number-of-islands/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0994-rotting-oranges](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
