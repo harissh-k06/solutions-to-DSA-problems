@@ -122,6 +122,7 @@ Feel free to fork or use for your own revision!
 | [0242-valid-anagram](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -162,6 +163,7 @@ Feel free to fork or use for your own revision!
 | [0213-house-robber-ii](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Divide and Conquer
