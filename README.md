@@ -71,6 +71,7 @@ Feel free to fork or use for your own revision!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1646-get-maximum-in-generated-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
@@ -103,6 +104,7 @@ Feel free to fork or use for your own revision!
 | [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Feel free to fork or use for your own revision!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +280,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,4 +321,8 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1143-longest-common-subsequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
