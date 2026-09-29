@@ -37,6 +37,7 @@ Feel free to fork or use for your own revision!
 | [0002-add-two-numbers](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ Feel free to fork or use for your own revision!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harissh-k06/solutions-to-DSA-problems/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
